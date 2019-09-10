@@ -1,0 +1,32 @@
+# Add edges for the 'impact' relationship.
+0 6 600 impact 
+0 7 600 impact
+1 6 15 impact 
+2 7 100 impact 
+2 8 900 impact 
+3 8 800 impact 
+4 8 960 impact
+
+# Add edges for the 'include' relationship. A weight of 1 is assigned as a placeholder.
+0 5 1 include 
+1 5 1 include 
+2 5 1 include 
+
+# Add edges for the 'extend' relationship.
+3 2 1 extend 
+4 2 1 extend 
+
+# Add edges for the 'interact' relationship.
+9 0 1 interact 
+0 9 1 interact
+10 1 1 interact 
+1 10 1 interact
+10 2 1 interact
+2 10 1 interact
+11 3 1 interact
+3 11 1 interact
+11 4 1 interact
+4 11 1 interact
+0 10 1 interact
+10 0 1 interact
+

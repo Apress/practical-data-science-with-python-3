@@ -1,0 +1,13 @@
+Id,Role,Label
+0,use-case,Communicate
+1,use-case,Manage Dev.
+2,use-case,Exec. Data Analytics
+3,use-case,Use Bus. Int.
+4,use-case,Use Op. Int.
+5,use-case,Send/Receive Data
+6,resource,Network
+7,resource,Messaging
+8,resource,Database
+9,actor,Device
+10,actor,Application
+11,actor,User
